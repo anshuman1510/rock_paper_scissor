@@ -5,7 +5,7 @@ int main()
 {
 	int R=1;
 	int P=2;
-	int S=2;
+	int S=3;
 	int i, c, player=0, comp=0, choice;	
 	printf ("For Rock=1\nFor paper=2\nFor Scissor=3\n");
 	for (i=0;i<5;i++)
