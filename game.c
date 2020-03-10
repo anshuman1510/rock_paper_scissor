@@ -50,12 +50,12 @@ int main()
 			{
 				printf ("Draw\n");
 			}
-			if (c==3)
+			if (c==1)
 			{
 				printf ("Player Wins\n");
 				player=player+1;
 			}
-			if (c==1)
+			if (c==3)
 			{
 				printf ("Computer wins\n");
 				comp=comp+1;
@@ -67,12 +67,12 @@ int main()
 			{
 				printf ("Draw\n");
 			}
-			if (c==2)
+			if (c==1)
 			{
 				printf ("Computer Wins\n");
 				comp=comp+1;
 			}
-			if (c==1)
+			if (c==2)
 			{
 				printf ("Player Wins\n");
 				player=player+1;
